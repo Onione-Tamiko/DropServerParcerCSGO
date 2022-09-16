@@ -3,4 +3,4 @@ With notifications in Telegram App
 
 Change the names in the file "config_parcer.py"
 
-pip install telethon lxml bs4 requests
+pip install telethon lxml bs4 requests win32gui
